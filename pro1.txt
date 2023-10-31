@@ -1,0 +1,2 @@
+This is the sample first program.
+We should see this
