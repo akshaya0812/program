@@ -1,2 +1,6 @@
+<<<<<<< HEAD 
 i love you hi everyone
+=======
+Harsha Vardhini Viswanathan hi everyone
+>>>>>>> 65184955fdd0cfb49748ee0b63e2376075d37a67
 
