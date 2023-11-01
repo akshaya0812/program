@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 <<<<<<< HEAD 
 i love you hi everyone
 =======
+<<<<<<< HEAD
+hi harsha and padma akka
+>>>>>>> 9d94c620339d188dff6cbfc68b95fbe8cae6d8d9
+=======
 Harsha Vardhini Viswanathan hi everyone
 >>>>>>> 65184955fdd0cfb49748ee0b63e2376075d37a67
-
+padma like to be happy and smiling
